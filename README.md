@@ -32,8 +32,12 @@ pip install pyfiglet
 
 ## Screenshots? Here they are:
 
-![plot](https://img.onl/7g5Fm2)
+![plot][def]
 
-![plot](https://img.onl/esgH8x)
+![plot][def2]
 
 
+
+
+[def]: https://img.onl/7g5Fm2
+[def2]: https://img.onl/esgH8x
